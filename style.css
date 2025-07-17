@@ -12,7 +12,7 @@ html , body{
 
 body {
     font-family: inherit;
-    background: url(./img/stacked-waves-haikei.png);
+    background: url(stacked-waves-haikei.png);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
